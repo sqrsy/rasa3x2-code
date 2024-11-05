@@ -13,26 +13,26 @@ The 'Rasa3x2' circuit is very simple. It has 4 jacks, 4 switches, and 6 pots.
 # Configurations
 
 The 'Rasa3x2' can be configured in 4 modes:
-(1) Positive output, with switches
-(2) Positive output, without switches
-(3) Thru-zero output, with switches
-(4) Thru-zero output, without switches
+* Positive output, with switches (PO-4S)
+* Positive output, without switches (PO-0S)
+* Thru-zero output, with switches (TZO-4S)
+* Thru-zero output, without switches (TZO-0S)
 
-Activating thru-zero output requires more parts. It is optional, and not necessary for programs like envelope generators.
+Thru-zero output is kept optional because it requires more parts.
 
-# Programs for "Positive output, with switches"
-
-COMING EVENTUALLY!!
-
-# Programs for "Positive output, without switches"
+# PO-4S Programs
 
 COMING EVENTUALLY!!
 
-# Programs for "Thru-zero output, with switches"
+# PO-0S Programs
 
 COMING EVENTUALLY!!
 
-# Programs for "Thru-zero output, without switches"
+# TZO-4S Programs
+
+COMING EVENTUALLY!!
+
+# TZO-0S Programs
 
 COMING EVENTUALLY!!
 
