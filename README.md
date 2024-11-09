@@ -22,7 +22,25 @@ Thru-zero output is kept optional because it requires more parts.
 
 # PO-4S Programs
 
-COMING EVENTUALLY!!
+The following programs are currently available:
+
+* Dual Envelope:
+	* Author: sqrsy
+	* Purpose: Generates an ADSR envelope from a gate signal.
+	* Jack 1 (top left): Clock in. Triggers Envelope 1.
+	* Pot 1 (top left): Controls attack rate for Envelope 1.
+	* Pot 2 (middle left): Controls decay and release rate for Envelope 1.
+	* Pot 3 (bottom left): Controls sustain level for Envelope 1.
+	* Switch 1: Increases attack length for Envelope 1.
+	* Switch 2: Increases decay and release length for Envelope 1.
+	* Jack 2 (top right): Clock in. Triggers Envelope 2.
+	* Pot 4 (top right): Controls attack rate for Envelope 2.
+	* Pot 5 (middle right): Controls decay and release rate for Envelope 2.
+	* Pot 6 (bottom right): Controls sustain level for Envelope 2.
+	* Switch 3: Increases attack length for Envelope 2.
+	* Switch 4: Increases decay and release length for Envelope 2.
+	* Jack 3: Envelope 1 out.
+	* Jack 4: Envelope 2 out.
 
 # PO-0S Programs
 
