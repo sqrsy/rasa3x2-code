@@ -44,7 +44,21 @@ The following programs are currently available:
 
 # PO-0S Programs
 
-COMING EVENTUALLY!!
+The following programs are currently available:
+
+* Dual Envelope:
+	* Author: sqrsy
+	* Purpose: Generates an envelope based on samples from a children's toy.
+	* Jack 1 (top left): Clock in. Triggers Envelope 1.
+	* Pot 1 (top left): Sets Envelope 1 to any of 20 envelopes in the sample bank.
+	* Pot 2 (middle left): Controls the speed of sample playback for Envelope 1.
+	* Pot 3 (bottom left): Controls the delay before starting Envelope 1.
+	* Jack 2 (top right): Clock in. Triggers Envelope 2.
+	* Pot 4 (top right): Sets Envelope 2 to any of 20 envelopes in the sample bank.
+	* Pot 5 (middle right): Controls the speed of sample playback for Envelope 2.
+	* Pot 6 (bottom right): Controls the delay before starting Envelope 2.
+	* Jack 3: Envelope 1 out.
+	* Jack 4: Envelope 2 out.
 
 # TZO-4S Programs
 
