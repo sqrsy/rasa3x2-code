@@ -66,7 +66,20 @@ COMING EVENTUALLY!!
 
 # TZO-0S Programs
 
-COMING EVENTUALLY!!
+* Modulated LFO:
+	* Author: sqrsy
+	* Purpose: Generates a LFO that is modulated by an Envelope.
+	* Jack 1 (top left): Clock in. Triggers Envelope.
+	* Pot 1 (top left): Controls attack rate for Envelope.
+	* Pot 2 (middle left): Controls decay and release rate for Envelope.
+	* Pot 3 (bottom left): Controls sustain level for Envelope.
+	* Jack 2 (top right): CV in. Increases frequency of LFO (up to 3x speed).
+		* Note: CV will increase frequency on top of Envelope FM up to max speed.
+	* Pot 4 (top right): Interpolates between triangle LFO and noise LFO.
+	* Pot 5 (middle right): Controls the base speed of LFO.
+	* Pot 6 (bottom right): Allows Envelope to increase frequency of LFO (up to 3x speed).
+	* Jack 3: Envelope out.
+	* Jack 4: LFO out.
 
 # Disclaimer
 
