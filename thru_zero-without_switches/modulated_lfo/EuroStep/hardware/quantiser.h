@@ -2,10 +2,10 @@
 /// DEFINE HARDWARE PARAMETERS FOR MODULE
 ///////////////////////////////////////////////////////////////////////////////
 
-#define NUMBER_OF_INPUTS 2
+#define NUMBER_OF_JACKS 2
 #define V_DIVIDER_R1 220
 #define V_DIVIDER_R2 150
-#define PINS_INPUT \
+#define PINS_JACK \
   { A5, A4 }
 
 #define NUMBER_OF_POTS 2
@@ -18,9 +18,9 @@
 #define PINS_SWITCH \
   { 2, A0, A1, A3, A2, 12, 11, 10, 9, 8, 7, 6 }
 
-#define NUMBER_OF_OUTPUTS 2
-#define PINS_OUTPUT \
-  { 4, 3 }
+#define NUMBER_OF_DIGITAL_OUTPUTS 0
+#define PINS_DIGITAL_OUTPUT \
+  {}
 #define PINS_DAC_A \
   { 13, 3, 4, 5 }
 #define PINS_DAC_B \
